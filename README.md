@@ -1,1 +1,0 @@
-# LS-DYNA_tools
