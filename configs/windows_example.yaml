@@ -1,0 +1,10 @@
+# Example configuration (Windows)
+solver:
+  dynasolver_path: "C:\\Program Files\\ANSYS Inc\\v231\\ansys\\bin\\winx64\\lsdyna_dp.exe"
+  ncpu: 8
+  memory: "4000m"
+
+ids:
+  start_nid: 1000001
+  start_eid: 2000001
+  part_id: 1
